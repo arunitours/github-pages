@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aruni Tours Sri Lanka</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    header {
+      background-color: #fff;
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+      border-bottom: 4px solid #f7931e;
+    }
+
+    header img {
+      max-width: 200px;
+      height: auto;
+    }
+
+    header h2 {
+      font-size: 1.3rem;
+      color: #000;
+      margin-top: 1rem;
+    }
+
+    section {
+      padding: 3rem 1rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      color: #cc3300;
+    }
+
+    .highlight {
+      color: #f7931e;
+      font-weight: bold;
+    }
+
+    .about ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .about ul li::before {
+      content: "✓";
+      color: #f7931e;
+      margin-right: 0.5rem;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      border-left: 5px solid #f7931e;
+      padding-left: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .contact {
+      background-color: #f8f8f8;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+
+    img.hero {
+      width: 100%;
+      max-height: 500px;
+      object-fit: cover;
+      margin-bottom: 2rem;
+    }
+
+    @media (max-width: 768px) {
+      .section-title {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="aruni home page.jpg" alt="Logo Aruni Tours Sri Lanka">
+    <h2>Viaggia insieme a noi alla scoperta dello Sri Lanka</h2>
+  </header>
+
+  <img src="aruni home page.jpg" class="hero" alt="Elefante in Sri Lanka">
+
+  <section>
+    <h1 class="section-title">Esperienze su Misura per un Viaggio Indimenticabile</h1>
+    <p><strong>Aruni Tours</strong> è un nome sinonimo di viaggi ed esperienze indimenticabili. Con un impegno senza pari verso l’eccellenza, creiamo itinerari personalizzati che rispecchiano i gusti e le preferenze uniche di ogni viaggiatore.</p>
+    <p>Dalle ondulate piantagioni di tè alle spiagge paradisiache, passando per il magnifico patrimonio culturale dello Sri Lanka, portiamo ogni destinazione alla vita con autenticità e luminosità. Offriamo accessi esclusivi che trasformano un semplice viaggio in un ricco tesoro di ricordi.</p>
+    <p class="highlight">Scopri lo Sri Lanka con Aruni Tours: il viaggio perfetto ti aspetta. 🌍✨</p>
+  </section>
+
+  <section class="about">
+    <h2 class="section-title">Chi Siamo</h2>
+    <p>Siamo una famiglia italo-srilankese con oltre dieci anni di esperienza nel settore del turismo. Il nostro obiettivo è far conoscere al mondo le meraviglie dello Sri Lanka, un’isola ricca di storia, cultura e paesaggi mozzafiato.</p>
+    <p>Grazie alla nostra conoscenza approfondita del territorio, creiamo pacchetti su misura per esperienze autentiche e indimenticabili, pensati per ogni esigenza: relax, scoperta o tradizione.</p>
+
+    <h3>Perché scegliere noi?</h3>
+    <ul>
+      <li>Esperienza decennale nel turismo internazionale</li>
+      <li>Conoscenza diretta dello Sri Lanka, grazie alle nostre radici locali</li>
+      <li>Pacchetti personalizzati per ogni tipo di viaggiatore</li>
+      <li>Assistenza dedicata prima, durante e dopo il viaggio</li>
+    </ul>
+    <p class="highlight">Vieni a scoprire con noi lo Sri Lanka e lasciati guidare in un viaggio che porterai nel cuore. 🌴✈</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">I Nostri Viaggi</h2>
+    <p>(Sezione in aggiornamento – qui inserirai i dettagli dei viaggi, pacchetti e itinerari personalizzati.)</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">Dicono di Noi</h2>
+    <p>(Sezione in aggiornamento – inserirai qui le testimonianze dei clienti.)</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contattaci</h2>
+    <p>Per la creazione del tuo viaggio su misura scrivici a:</p>
+    <p><strong>Email:</strong> <a href="mailto:arunitoursrilanka@gmail.com">arunitoursrilanka@gmail.com</a></p>
+  </section>
+
+  <footer>
+    © 2025 Aruni Tours Sri Lanka. Tutti i diritti riservati.
+  </footer>
+
+</body>
+</html>
